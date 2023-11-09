@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>product_info.txt</file>
+        <file>product_item.txt</file>
+    </qresource>
+</RCC>
